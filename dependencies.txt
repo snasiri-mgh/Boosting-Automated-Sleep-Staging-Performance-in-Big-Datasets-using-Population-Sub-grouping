@@ -1,0 +1,12 @@
+# file: dependencies.txt
+
+python3-pip
+python3-numpy
+python3-scipy
+python3-h5py
+python3-pandas
+python3-matplotlib
+python3-sklearn
+python3-imblearn
+python3-pyriemann
+
